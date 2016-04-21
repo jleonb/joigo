@@ -350,6 +350,12 @@ nav .caret{
 	color:#FFF!important;
 	background:rgba(0,0,0,.3);
 }
+.btn-rd{
+	border-radius: 40px;
+}
+.icon-spacer{
+	margin-right:5px;
+}
 
 /* Prevent ugly blue glow on chrome and safari */
 button{
@@ -486,6 +492,11 @@ iframe{
 .bgc-golden-yellow{
 	background-color:#FDDC00;
 }
+.btn-tomato{
+	background:#FF5651;
+	color:#FFFFFF!important;
+}
+
 /* Text colour styles */
 
 .tc-oxford-blue{
