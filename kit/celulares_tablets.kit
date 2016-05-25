@@ -1,0 +1,121 @@
+<!doctype html>
+<html>
+	<head>
+		<!-- @include header.kit -->
+		<title>Catalogo - Joigo Tiendas</title>
+	</head>
+	<body>
+		<!-- Main container -->
+		<div class="page-container">
+			
+			<!-- Navigation Bloc -->
+			<!-- @include menu.kit -->
+			<!-- Navigation Bloc END -->
+			
+			<div class="bloc l-bloc" id="cat_tit_5">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<br>
+							<img src="img/banner_cel_tablet.jpg" class="img-responsive center-block" alt="head" width="70%">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="bloc l-bloc tc-oxford-blue" id="cat_tit_5">
+				<div class="container bloc-md">
+					<div class="row">
+						<div class="col-sm-12">
+							<a href="" class="btn   btn-lg btn-rd btn-tomato"><span class="fa fa-mobile icon-spacer"></span>Celulares</a><br><br>
+							<div id="celulares" class="owl-carousel">
+								<img src="img/cat/equipos/celu1.png" class="img-responsive center-block" alt="celulares" width="250px">
+								<img src="img/cat/equipos/celu2.png" class="img-responsive center-block" alt="celulares" width="250px">
+								<img src="img/cat/equipos/celu3.png" class="img-responsive center-block" alt="celulares" width="250px">
+								<img src="img/cat/equipos/celu4.png" class="img-responsive center-block" alt="celulares" width="250px">
+								<img src="img/cat/equipos/celu5.png" class="img-responsive center-block" alt="celulares" width="250px">
+								<img src="img/cat/equipos/celu6.png" class="img-responsive center-block" alt="celulares" width="250px">
+								<img src="img/cat/equipos/celu1.png" class="img-responsive center-block" alt="celulares" width="250px">
+								<img src="img/cat/equipos/celu2.png" class="img-responsive center-block" alt="celulares" width="250px">
+								<img src="img/cat/equipos/celu3.png" class="img-responsive center-block" alt="celulares" width="250px">
+								<img src="img/cat/equipos/celu4.png" class="img-responsive center-block" alt="celulares" width="250px">
+								<img src="img/cat/equipos/celu5.png" class="img-responsive center-block" alt="celulares" width="250px">
+								<img src="img/cat/equipos/celu6.png" class="img-responsive center-block" alt="celulares" width="250px">
+								<img src="img/ymuchomas.jpg" class="img-responsive center-block" alt="joigo" width="250px">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="bloc l-bloc tc-oxford-blue" id="cat_tit_5">
+				<div class="container bloc-md">
+					<div class="row">
+						<div class="col-sm-12">
+							<a href="" class="btn   btn-lg btn-rd btn-tomato"><span class="fa fa-tablet icon-spacer"></span>Tablets</a><br><br>
+							<div id="tablets" class="owl-carousel">
+								<img src="img/cat/equipos/tablet1.png" class="img-responsive center-block" alt="tablets" width="250px">
+								<img src="img/cat/equipos/tablet2.png" class="img-responsive center-block" alt="tablets" width="250px">
+								<img src="img/cat/equipos/tablet3.png" class="img-responsive center-block" alt="tablets" width="250px">
+								<img src="img/cat/equipos/tablet4.png" class="img-responsive center-block" alt="tablets" width="250px">
+								<img src="img/cat/equipos/tablet5.png" class="img-responsive center-block" alt="tablets" width="250px">
+								<img src="img/cat/equipos/tablet6.png" class="img-responsive center-block" alt="tablets" width="250px">
+								<img src="img/cat/equipos/tablet1.png" class="img-responsive center-block" alt="tablets" width="250px">
+								<img src="img/cat/equipos/tablet2.png" class="img-responsive center-block" alt="tablets" width="250px">
+								<img src="img/cat/equipos/tablet3.png" class="img-responsive center-block" alt="tablets" width="250px">
+								<img src="img/cat/equipos/tablet4.png" class="img-responsive center-block" alt="tablets" width="250px">
+								<img src="img/cat/equipos/tablet5.png" class="img-responsive center-block" alt="tablets" width="250px">
+								<img src="img/cat/equipos/tablet6.png" class="img-responsive center-block" alt="tablets" width="250px">
+								<img src="img/ymuchomas.jpg" class="img-responsive center-block" alt="joigo" width="250px">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- ScrollToTop Button -->
+			<a class="bloc-button btn btn-d scrollToTop" onclick="scrollToTarget('1')"><span class="fa fa-chevron-up"></span></a>
+			<!-- ScrollToTop Button END-->
+			<!-- Footer - bloc-19 -->
+			<!-- @include footer.kit -->
+			<!-- Footer - bloc-20 END -->
+		</div>
+		<!-- Main container END -->
+	</body>
+
+	<script type="application/javascript">
+		$(document).ready(function () {
+			$("#celulares").owlCarousel({
+			autoPlay: 2000, //Set AutoPlay to 3 seconds
+			items: 5,
+			itemsDesktop: [1199, 3],
+			itemsDesktopSmall: [979, 3],
+			pagination: false
+			});
+		})
+	</script>
+
+	<script type="application/javascript">
+		$(document).ready(function () {
+			$("#tablets").owlCarousel({
+				autoPlay: 2000, //Set AutoPlay to 3 seconds
+				items: 5,
+				itemsDesktop: [1199, 3],
+				itemsDesktopSmall: [979, 3],
+				pagination: false
+			});
+		})
+	</script>
+
+	<script>
+		(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.5&appId=129263057073";
+		fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	
+	<!-- Google Analytics -->
+	<!-- Google Analytics END -->
+</html>
