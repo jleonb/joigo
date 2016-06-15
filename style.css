@@ -819,3 +819,12 @@ iframe{
 }
 
 
+.popover   {
+	background-color: #121F41;
+	color: #ffffff;
+	width: 120px;
+}
+.popover.right .arrow:after {
+	border-right-color: #121F41;
+}
+

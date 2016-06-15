@@ -29,6 +29,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/acc_fotografia.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/acc_fotografia.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/acc_tablets.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -486,6 +495,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/home.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/iluminacion.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -594,6 +612,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/banner_fotografia.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128322,
+		"inputAbbreviatedPath": "\/img\/banner_fotografia.jpg",
+		"outputAbbreviatedPath": "\/img\/banner_fotografia.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/banner_Iluminacion.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -623,6 +652,17 @@
 		"initialSize": 120574,
 		"inputAbbreviatedPath": "\/img\/banner_tablet.jpg",
 		"outputAbbreviatedPath": "\/img\/banner_tablet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banner_telefonia.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90378,
+		"inputAbbreviatedPath": "\/img\/banner_telefonia.jpg",
+		"outputAbbreviatedPath": "\/img\/banner_telefonia.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1327,6 +1367,17 @@
 		"initialSize": 38334,
 		"inputAbbreviatedPath": "\/img\/cat\/acc_celulares\/carcasas\/carcasas_67.jpg",
 		"outputAbbreviatedPath": "\/img\/cat\/acc_celulares\/carcasas\/carcasas_67.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cat\/acc_celulares\/carcasas\/carcasas_68 (1).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28049,
+		"inputAbbreviatedPath": "\/img\/cat\/acc_celulares\/carcasas\/carcasas_68 (1).jpg",
+		"outputAbbreviatedPath": "\/img\/cat\/acc_celulares\/carcasas\/carcasas_68 (1).jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2926,6 +2977,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/cat\/fotografia\/foto1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28202,
+		"inputAbbreviatedPath": "\/img\/cat\/fotografia\/foto1.jpg",
+		"outputAbbreviatedPath": "\/img\/cat\/fotografia\/foto1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cat\/fotografia\/foto2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14104,
+		"inputAbbreviatedPath": "\/img\/cat\/fotografia\/foto2.jpg",
+		"outputAbbreviatedPath": "\/img\/cat\/fotografia\/foto2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cat\/fotografia\/foto3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21588,
+		"inputAbbreviatedPath": "\/img\/cat\/fotografia\/foto3.jpg",
+		"outputAbbreviatedPath": "\/img\/cat\/fotografia\/foto3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cat\/fotografia\/foto4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24715,
+		"inputAbbreviatedPath": "\/img\/cat\/fotografia\/foto4.jpg",
+		"outputAbbreviatedPath": "\/img\/cat\/fotografia\/foto4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cat\/fotografia\/foto5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23878,
+		"inputAbbreviatedPath": "\/img\/cat\/fotografia\/foto5.jpg",
+		"outputAbbreviatedPath": "\/img\/cat\/fotografia\/foto5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cat\/fotografia\/foto6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28013,
+		"inputAbbreviatedPath": "\/img\/cat\/fotografia\/foto6.jpg",
+		"outputAbbreviatedPath": "\/img\/cat\/fotografia\/foto6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/cat\/iluminacion\/iluminacion_1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3762,6 +3879,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/lentes_sorteo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 192166,
+		"inputAbbreviatedPath": "\/img\/lentes_sorteo.png",
+		"outputAbbreviatedPath": "\/img\/lentes_sorteo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/locales\/local_1.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4507,6 +4635,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kit\/acc_fotografia.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/acc_fotografia.kit",
+		"outputAbbreviatedPath": "\/acc_fotografia.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kit\/acc_tablets.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -4576,6 +4713,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/header.kit",
 		"outputAbbreviatedPath": "\/header.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/home.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/home.kit",
+		"outputAbbreviatedPath": "\/home.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
